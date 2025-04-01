@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Candlestick.cpp
+  CppCLR_WinFormsProject.cpp
+  Form_mainUI.cpp
+  PeaksAndValleys.cpp
+  TechnicalAnalizer.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  StockProject2C++.vcxproj -> D:\Documents\repos\StockProject2C++5\StockProjectC++\StockProject2C++\x64\Debug\StockProject2C++.exe
